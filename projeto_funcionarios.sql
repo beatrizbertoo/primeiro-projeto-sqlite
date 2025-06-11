@@ -11,7 +11,7 @@ insert into funcionarios (
   departamento,
   salario)
   VALUES 
-  ('1', 'Heitor Vieira', 'Financeiro', '4959.22'),
+  ('1', 'Eitor Vieira', 'Financeiro', '4959.22'),
   ('2', 'Daniel Campos', 'Vendas', '3884.44'),
   ('3', 'Luiza Dias ', 'TI', '8205.78'),
   ('4', 'Davi Lucas Moraes ', 'Financeiro', '8437.02'),
